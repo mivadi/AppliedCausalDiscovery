@@ -1,1 +1,1 @@
-# applied_causal_discovery
+# AppliedCausalDiscovery
