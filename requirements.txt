@@ -1,0 +1,6 @@
+pandas
+numpy
+scipy
+rpy2
+click
+scikit-learn
