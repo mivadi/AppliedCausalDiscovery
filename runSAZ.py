@@ -66,5 +66,5 @@ dir_output = ''
 dir_to_correlation_matrix_of_original_data = 'corr_matrix.csv'
 dir_to_correlation_matrices_of_bootstrapped_data = ''
 
-# experiments2(N, dir_output, dir_to_correlation_matrix_of_original_data, dir_to_correlation_matrices_of_bootstrapped_data, num_boots, context = ['age', 'gender'], effective_sample_size = True)
+# experiments(N, dir_output, dir_to_correlation_matrix_of_original_data, dir_to_correlation_matrices_of_bootstrapped_data, num_boots, context = ['age', 'gender'], effective_sample_size = True)
 
